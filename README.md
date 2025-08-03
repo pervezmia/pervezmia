@@ -22,7 +22,7 @@ Skills: HTML / CSS
 
 - 📫 How to reach me **ahmedpervezkabir@gmail.com**
 
-- 📄 All About Me:["https://www.facebook.com/ahmed.pervez.kabir"](https://FB.bio/pervezmia)
+- 📄 All About Me:["https://www.facebook.com/ahmed.pervez.kabir"](https://www.facebook.com/ahmed.pervez.kabir)
 
 <h3 align="left">Connect with me:</h3>
 
