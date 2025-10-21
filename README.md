@@ -14,7 +14,7 @@ Skills: HTML / CSS
 
 - 🔭 I’m currently learning frontend web development. [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Java, C++
+- 🌱 I’m currently learning JavaScript.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pervezmia](https://github.com/pervezmia)
 
