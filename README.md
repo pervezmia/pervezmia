@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pervezmia&color=red)
 
-Skills: HTML / CSS
+Skills: HTML / CSS / Javascript 
 
 </div>
 
