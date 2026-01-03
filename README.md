@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pervez Mia(Sohag)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Student of Hablu Programmer</h4>
+<h4 align="center">Student of Programming Hero</h4>
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Skills: HTML / CSS / Javascript
 
 </div>
 
-- 🔭 I’m currently learning frontend web development. [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning frontend web development. [Programming Hero](https://web.programming-hero.com/)
 
 - 🌱 I’m currently learning JavaScript.
 
