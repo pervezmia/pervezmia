@@ -72,7 +72,7 @@ Skills: HTML / CSS / Javascript
   <a href="https://github.com/pervezmia?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <p align="left">
-  <a href="https://github.com/pervezmia/tea-house-project" target="_blank"></a>
+  <a href="https://github.com/pervezmia/tea-house-project" target="_blank">tea-house-project</a>
 </p>
 <br/>
 <hr/>
