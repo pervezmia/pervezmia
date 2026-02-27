@@ -64,7 +64,7 @@ Skills: HTML / CSS / Javascript
 
 ## Best Repo -
 
-[![pervezmia](https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=pervezmia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pervezmia/pervezmia)
+[![pervezmia](https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=pervezmia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pervezmia/pervezmia) </br>
 [![B13-A4-PH-Job-Tracker](https://github.com/pervezmia/B13-A4-PH-Job-Tracker)
 
 
