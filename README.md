@@ -1,8 +1,7 @@
 ![I am pervezmia](https://github.com/pervezmia/pervezmia/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Pervez Mia</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Student of Programming Hero</h4>
+<h3 align="center">MERN Stack Developer | Frontend Web Developer</h3>
 
 <div align="center">
 
