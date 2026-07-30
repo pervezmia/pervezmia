@@ -13,11 +13,11 @@ Skills: HTML / CSS / Javascript
 
 - 🔭 I’m currently learning frontend web development. [Programming Hero](https://web.programming-hero.com/)
 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I have recently learned JavaScript, node js, express js and next js.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pervezmia](https://github.com/pervezmia)
 
-- 💬 Ask me about **HTML5, CSS3**
+- 💬 Ask me about JavaScript, node js, express js and next js.
 
 - 📫 How to reach me **ahmedpervezkabir@gmail.com**
 
