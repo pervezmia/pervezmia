@@ -21,7 +21,7 @@ Beyond coding, I'm affiliated with an educational institution called **PSC (Prot
 - 👨‍💻 All of my projects are available at [https://github.com/pervezmia](https://github.com/pervezmia)
 - 💬 Ask me about Next.js, Express.js, MongoDB, and full-stack web development.
 - 📫 How to reach me: **ahmedpervezkabir@gmail.com**
-- 📄 Know more about me: [Facebook](https://www.facebook.com/ahmed.pervez.kabir)
+- 📄 Know more about me: [Linkedin](https://www.linkedin.com/in/pervez-mia/)
 
 <h3 align="left">Connect with me:</h3>
 
