@@ -10,6 +10,11 @@
 Skills: HTML / CSS / Javascript 
 
 </div>
+### About Me
+
+I'm a Full Stack Web Developer from Bangladesh, primarily working with the Next.js, Express.js, and MongoDB stack. I'm currently building real-world projects independently — including a Tutor Booking System featuring JWT authentication, booking management, and dashboard analytics.
+
+Beyond coding, I'm affiliated with an educational institution called **প্রত্যাবর্তন**, and I run a home textile/bedding brand called **AramKuthir**. I enjoy solving real problems with technology and try to learn something new with every project.
 
 - 🔭 I’m currently learning frontend web development. [Programming Hero](https://web.programming-hero.com/)
 
