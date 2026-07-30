@@ -28,7 +28,7 @@ Beyond coding, I'm affiliated with an educational institution called **PSC (Prot
 <p align="center">
 <a href="https://www.facebook.com/pervezmia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pervezmia" height="30" width="40" /></a>
 <a href="https://twitter.com/pervezmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pervezmia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-pervez-mia-755301322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-pervez-mia-755301322" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pervez-mia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-pervez-mia-755301322" height="30" width="40" /></a>
 <!--<a href="https://codepen.io/pervezmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pervezmia" height="30" width="40" /></a>-->
 <!--<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>-->
 <!--<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>-->
@@ -130,10 +130,10 @@ Beyond coding, I'm affiliated with an educational institution called **PSC (Prot
 <!--<a href="https://twitter.com/pervezmia" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>-->
-<a href="https://www.facebook.com/pervezmia0" target="_blank">
+<a href="https://www.linkedin.com/in/pervez-mia/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/ahmed.pervez.kabir" target="_blank">
+<a href="https://www.facebook.com/pervezmia0" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
