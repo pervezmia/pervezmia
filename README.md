@@ -61,18 +61,44 @@ Beyond coding, I'm affiliated with an educational institution called **PSC (Prot
 
 <br/>
 
-## Best Repo -
-
-[![pervezmia](https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=pervezmia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pervezmia/pervezmia) </br>
-[![B13-A4-PH-Job-Tracker](https://github.com/pervezmia/B13-A4-PH-Job-Tracker)
-
+## Featured Projects
 
 <p align="left">
-  <a href="https://github.com/pervezmia?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/pervezmia/client_tutor_booking_system" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=client_tutor_booking_system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Tutor Booking System"/>
+  </a>
 </p>
+
+**🔗 Live:** [client-tutor-booking-system.vercel.app](https://client-tutor-booking-system.vercel.app/) &nbsp;|&nbsp; **Backend Repo:** [server_tutor_booking_system](https://github.com/pervezmia/server_tutor_booking_system)
+
+<br/>
+
 <p align="left">
-  <a href="https://github.com/pervezmia/tea-house-project" target="_blank">tea-house-project</a>
+  <a href="https://github.com/pervezmia/mentora-client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=mentora-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mentora"/>
+  </a>
 </p>
+
+**🔗 Live:** [mentora-client-six.vercel.app](https://mentora-client-six.vercel.app/) &nbsp;|&nbsp; **Backend Repo:** [mentora-server](https://github.com/pervezmia/mentora-server)
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/pervezmia/wanderlust" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pervezmia&repo=wanderlust&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Wanderlust"/>
+  </a>
+</p>
+
+**🔗 Live:** [wanderlust-lilac-three.vercel.app](https://wanderlust-lilac-three.vercel.app/) &nbsp;|&nbsp; **Backend Repo:** [wanderlust-server](https://github.com/pervezmia/wanderlust-server)
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/pervezmia?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+</p>
+
 <br/>
 <hr/>
 <br/>
